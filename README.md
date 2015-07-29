@@ -6,7 +6,7 @@
 * [Arrested Devops](http://www.arresteddevops.com/)
 * [Bad Voltage](http://www.badvoltage.org/) ([Subscribe](http://www.badvoltage.org/feed/ogg/))
 * [BSD Now](http://www.bsdnow.tv/) ([Subscribe](http://feeds.feedburner.com/BsdNowOgg))
-* [BSDTalk](http://bsdtalk.blogspot.com/) ([Subscribe](http://www2.madphilosopher.ca/bsdtalk_ogg.xml))
+* [BSDTalk](http://bsdtalk.blogspot.com/) ([Subscribe](http://feeds.feedburner.com/Bsdtalk))
 * [Debug Show](http://feeds.feedburner.com/debugshow)
 * [Defensive Security Podcast](https://www.defensivesecurity.org/)
 * [Developer Tea](https://www.developertea.com/) ([Subscribe](http://feeds.feedburner.com/developertea))
