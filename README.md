@@ -1,5 +1,6 @@
 # Podcasts of Interest
 
+* [15 Minute History](https://15minutehistory.org/) ([Subscribe](http://feeds.feedburner.com/15MinuteHistory))
 * [A* Interview](https://www.youtube.com/channel/UCUam0uJ8-I8W1DPgogzQX1Q/videos)
 * [Accidental Tech](http://atp.fm/)
 * [Agile in 3 Minutes](http://agilein3minutes.com/) ([Subscribe](http://agilein3minut.es/archive/index.rss)) ([Patreon campaign](https://www.patreon.com/schmonz?ty=h))
@@ -32,10 +33,12 @@
 * [GitMinutes](http://www.gitminutes.com/) ([Subscribe](http://feeds.gitminutes.com/gitminutes-podcast))
 * [GNU World Order](http://gnuworldorder.info/)
 * [Go Time](https://changelog.com/gotime/)
+* [Google Cloud Platform Podcast](https://www.gcppodcast.com/) ([Subscribe](https://feeds.feedburner.com/GcpPodcast))
 * [Hacker Public Radio](http://hackerpublicradio.org/)
 * [Hak5](http://hak5.org/)
 * [Idle Thumbs](https://www.idlethumbs.net/idlethumbs) ([Subscribe](http://www.idlethumbs.net/feeds/idle-thumbs))
 * [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
+* [L8ist Sh9y](https://www.rackn.com/resources/podcast/)
 * [Linear Digressions](http://lineardigressions.com/)
 * [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) ([Subscribe](http://feeds2.feedburner.com/TheLinuxActionShowOGG))
 * [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) ([Subscribe](http://feeds.feedburner.com/linuxunogg))
@@ -43,6 +46,7 @@
 * [mintCast](http://mintcast.org/) ([Subscribe](http://mintcast.org/category/ogg/feed))
 * [Minitsry of Testing](https://www.ministryoftesting.com/testing-feeds/podcast-testing-feeds/)
 * [Mostly Erlang](http://mostlyerlang.com/) ([Subscribe](http://feeds.feedburner.com/MostlyErlangPodcast))
+* [Native Trailblazers](https://www.blogtalkradio.com/nativetrailblazers)
 * [Network Collective](http://thenetworkcollective.com/) ([Subscribe](http://thenetworkcollective.com/feed))
 * [New Rustacean](http://www.newrustacean.com/) ([Subscribe](http://www.newrustacean.com/feed.xml))
 * [Ops All The Things!](https://www.opsallthethings.com/)
