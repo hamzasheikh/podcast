@@ -46,7 +46,7 @@
 - [Mostly Erlang](http://mostlyerlang.com/) ([Subscribe](http://feeds.feedburner.com/MostlyErlangPodcast))
 - [Network Collective](http://thenetworkcollective.com/) ([Subscribe](http://thenetworkcollective.com/feed))
 - [New Rustacean](http://www.newrustacean.com/) ([Subscribe](http://www.newrustacean.com/feed.xml))
-- [O11ycast](http://o11y.fm)
+- [O11ycast](http://o11y.fm/)
 - [Ops All The Things!](https://www.opsallthethings.com/)
 - [Packet Pushers Weekly](http://packetpushers.net/series/weekly-show/)
 - [Podcast.\_\_init\_\_](http://podcastinit.com/) ([Patreon campaign](https://www.patreon.com/podcastinit?ty=h))
